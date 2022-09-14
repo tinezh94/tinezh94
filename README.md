@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there I'm Christine :smile: AKA Wanting 👋
 
 <!--
 **tinezh94/tinezh94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+🤔 I'm a fullstack software engineer looking for opportunities to provide me with challenging works that I can learn from and contribute to.
+
+
